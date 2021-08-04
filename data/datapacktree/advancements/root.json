@@ -1,0 +1,22 @@
+{
+	"display": 
+	{
+		"icon": 
+		{
+			"item": "minecraft:bookshelf"			
+		},
+		"title": "Datapack Tree",
+		"frame": "challenge",
+		"description": ["",{"text":"Installed datapacks","color":"yellow"}],
+		"background": "minecraft:textures/block/black_concrete.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": 
+	{
+		"tick": 
+		{
+			"trigger": "minecraft:tick"
+		}
+	}
+}

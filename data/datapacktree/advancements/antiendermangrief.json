@@ -1,0 +1,21 @@
+{
+	"display":
+    {
+		"icon":
+		{
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"title": "Anti Enderman Grief Datapack",
+		"description": ["",{"text":"Prevents endermans from picking up blocks.\n","color":"yellow"},{"text":"1.13 - 1.17.1 Compatible.","color":"light_purple"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "datapacktree:epicc",
+	"criteria": 
+	{
+		"tick": 
+		{
+			"trigger": "minecraft:tick"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"display":
+    {
+		"icon": 
+		{
+			"item": "minecraft:diamond_hoe"
+		},
+		"title": "Epicc",
+		"description": ["",{"text":"All installed datapacks made by Epicc.","color":"yellow"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "datapacktree:root",
+	"criteria": 
+	{
+		"tick": 
+		{
+			"trigger": "minecraft:tick"
+		}
+	}
+}
